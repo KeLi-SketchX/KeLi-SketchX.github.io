@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ccdabc8-e26d-400c-a293-a0d9a7e7247f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/paper1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/paper2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/paper3.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/TIP2017.md" afterPath="$PROJECT_DIR$/_publications/TIP2017.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,66 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5880">
-              <caret line="245" column="3" lean-forward="false" selection-start-line="245" selection-start-column="3" selection-end-line="245" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CVPR2019.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/CVPR2019.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ECCV2018.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/ECCV2018.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ICCV2021.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/ICCV2021.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="136" lean-forward="true" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TIP2017.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/TIP2017.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="120" lean-forward="false" selection-start-line="8" selection-start-column="120" selection-end-line="8" selection-end-column="120" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TIP2019.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2199-01-01-future-post.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2199-01-01-future-post.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,8 +23,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-08-14-blog-post-4.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md">
+      <file leaf-file-name="site-logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/site-logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="safari-pinned-tab.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/safari-pinned-tab.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -98,11 +40,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WACV2016.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/WACV2016.md">
+      <file leaf-file-name="profile.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/profile.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paragraph-no-indent.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/paragraph-no-indent.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paragraph-indent.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/paragraph-indent.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="63" column="9" lean-forward="false" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TIP2019.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TIP2017.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_publications/TIP2017.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <caret line="11" column="65" lean-forward="false" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -113,6 +106,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>email</find>
+      <find>publish</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,12 +118,12 @@
         <option value="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_publications/ECCV2018-USPG.md" />
-        <option value="$PROJECT_DIR$/_publications/TIP2017.md" />
         <option value="$PROJECT_DIR$/_publications/ICCV2021.md" />
         <option value="$PROJECT_DIR$/_publications/ECCV2018.md" />
         <option value="$PROJECT_DIR$/_publications/CVPR2019.md" />
-        <option value="$PROJECT_DIR$/_publications/TIP2019.md" />
         <option value="$PROJECT_DIR$/_publications/WACV2016.md" />
+        <option value="$PROJECT_DIR$/_publications/TIP2019.md" />
+        <option value="$PROJECT_DIR$/_publications/TIP2017.md" />
       </list>
     </option>
   </component>
@@ -189,6 +183,12 @@
             <path>
               <item name="KeLi.github.io-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="KeLi.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KeLi.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KeLi.github.io-master" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,6 +215,11 @@
               <item name="KeLi.github.io-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="KeLi.github.io-master" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KeLi.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KeLi.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown_generator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,8 +260,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -296,14 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5880">
-          <caret line="245" column="3" lean-forward="false" selection-start-line="245" selection-start-column="3" selection-end-line="245" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/ECCV2018-USPG.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -315,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/_publications/ICCV2021.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="136" lean-forward="true" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
+          <caret line="8" column="136" lean-forward="false" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
           <folding />
         </state>
       </provider>
@@ -324,14 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/TIP2017.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="120" lean-forward="false" selection-start-line="8" selection-start-column="120" selection-end-line="8" selection-end-column="120" />
           <folding />
         </state>
       </provider>
@@ -352,10 +342,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/ui-text.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5821">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -368,10 +406,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md">
+    <entry file="file://$PROJECT_DIR$/images/site-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/safari-pinned-tab.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/profile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/paragraph-no-indent.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/paragraph-indent.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="63" column="9" lean-forward="false" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/TIP2017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="65" lean-forward="false" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
           <folding />
         </state>
       </provider>

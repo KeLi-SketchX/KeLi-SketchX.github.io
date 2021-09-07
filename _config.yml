@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-China"
-title                    : "Ke Li / Associate Professor"
+locale                   : en-China
+title                    : Ke Li / Associate Professor
 title_separator          : "-"
 name                     : &name "Ke Li"
 description              : &description "handsome"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "like1990@bupt.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : like1990@bupt.edu.cn
+  researchgate     : https://scholar.google.com/citations?user=KZOFaz4AAAAJ&hl=en
   uri              :
   bitbucket        :
   codepen          :

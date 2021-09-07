@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : Ke Li
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : profile.png
+  bio              : I am currently Associate Professor at School of Artificial Intelligence in BUPT. My research interest is CV, particularly focus on sketch, video analysis, 3D.
+  location         : "Beijing University of Posts and Telecommunications,No 10, Xitucheng Road, Haidian District, Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=KZOFaz4AAAAJ&hl=en
   email            : like1990@bupt.edu.cn
-  researchgate     : https://scholar.google.com/citations?user=KZOFaz4AAAAJ&hl=en
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : KeLi-SketchX
   google_plus      :
   keybase          :
   instagram        :
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:

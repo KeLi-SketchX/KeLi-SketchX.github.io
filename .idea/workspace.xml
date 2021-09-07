@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ccdabc8-e26d-400c-a293-a0d9a7e7247f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/about.md" afterPath="$PROJECT_DIR$/_pages/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/markdown.md" afterPath="$PROJECT_DIR$/_pages/markdown.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/CVPR2019.md" afterPath="$PROJECT_DIR$/_publications/CVPR2019.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/ECCV2018.md" afterPath="$PROJECT_DIR$/_publications/ECCV2018.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/ICCV2021.md" afterPath="$PROJECT_DIR$/_publications/ICCV2021.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/TIP2017.md" afterPath="$PROJECT_DIR$/_publications/TIP2017.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/TIP2019.md" afterPath="$PROJECT_DIR$/_publications/TIP2019.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/WACV2016.md" afterPath="$PROJECT_DIR$/_publications/WACV2016.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,8 +86,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="185" column="3" lean-forward="false" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
+            <state relative-caret-position="-4306">
+              <caret line="102" column="21" lean-forward="false" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -495,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="185" column="3" lean-forward="false" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
+        <state relative-caret-position="-4306">
+          <caret line="102" column="21" lean-forward="false" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
           <folding />
         </state>
       </provider>

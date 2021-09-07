@@ -83,9 +83,9 @@ author:
   name             : Ke Li
   avatar           : profile.png
   bio              : I am currently Associate Professor at School of Artificial Intelligence in BUPT. My research interest is CV, particularly focus on sketch, video analysis, 3D.
-  location         : "No 10, Xitucheng Road, Haidian District, Beijing"
+  location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=KZOFaz4AAAAJ&hl=en
   email            : like1990@bupt.edu.cn
   researchgate     :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

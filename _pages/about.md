@@ -43,6 +43,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <sup>1</sup> equal contribution
 </font>
 
+<br>
 
 [**Towards Deep Universal Sketch Perceptual Grouper**](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
@@ -57,23 +58,25 @@ IEEE Transactions on Image Processing(TIP)
 ### **2018**
 
 
-**Universal Sketch Perceptual Grouping**
+[**Universal Sketch Perceptual Grouping**](http://keli-sketchx.github.io/files/ECCV2018.pdf)
 
-#### **Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+<font size=3>
+<b>Ke Li</b>, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+<br>
+Proceedings of the european conference on computer vision(ECCV)
+</font>
 
-#### Proceedings of the european conference on computer vision(ECCV)
-
-#### [Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
 
 ### 2017
 
-**Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**
+[**Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
-#### **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+<font size=3>
+<b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+<br>
+IEEE Transactions on Image Processing(TIP)
+</font>
 
-#### IEEE Transactions on Image Processing(TIP)
-
-#### [Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
 
 ### 2016

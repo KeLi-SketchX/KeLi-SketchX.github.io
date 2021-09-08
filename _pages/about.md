@@ -24,8 +24,8 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 ### **2021**
 [**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**](https://arxiv.org/abs/2108.08023)
 
-<font size=2>
-Binghui Chen, Zhaoyi Yan, Ke Li, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang.
+<font size=3>
+Binghui Chen, Zhaoyi Yan, <b>Ke Li</b>, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang.
 <br>
 IEEE International Conference on Computer Vision(ICCV)
 </font>
@@ -34,8 +34,8 @@ IEEE International Conference on Computer Vision(ICCV)
 ### **2019**
 
 [**Generalising Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/CVPR2019.pdf)
-<font size=2>
-Kaiyue Pang<sup>1</sup>, **Ke Li**<sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
+<font size=3>
+Kaiyue Pang<sup>1</sup>, <b>Ke Li</b><sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
 <br>
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 <br>

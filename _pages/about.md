@@ -14,10 +14,10 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 # Education and Work experience
 
-* 2009.09 -- 2013.06   B.S.              BUPT
-* 2013.09 -- 2019.06   M.S. & PH.D       BUPT
-* 2017.10 -- 2018.12   visiting scholar  SketchX
-* 2019.03 -- 2021.08   Working           Alibaba DAMO Academy
+* 2009.09 -- 2013.06   B.S.             in BUPT
+* 2013.09 -- 2019.06   M.S. & PH.D      in BUPT
+* 2017.10 -- 2018.12   visiting scholar  in SketchX
+* 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy
 
 # Publications
 

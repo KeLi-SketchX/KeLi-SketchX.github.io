@@ -26,7 +26,7 @@ Publications
 
 
 
-[<img align="left" img width = '300' height ='150' src="http://keli-sketchx.github.io/files/ECCV2018.png"/>](http://keli-sketchx.github.io/files/ECCV2018.png) **Universal Sketch Perceptual Grouping**
+[<img align="left" img width = '200' height ='500' src="http://keli-sketchx.github.io/files/ECCV2018.jpg"/>](http://keli-sketchx.github.io/files/ECCV2018.png) **Universal Sketch Perceptual Grouping**
 
 **Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Xiang Tao, Timothy M Hospedales, Honggang Zhang
 
@@ -44,7 +44,7 @@ IEEE Transactions on Image Processing(TIP2019)
 
 
 
-[<img align="left" img width = '300' height ='150' src="http://keli-sketchx.github.io/files/WACV2016.png"/>](http://keli-sketchx.github.io/files/WACV2016.png) **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+[<img align="left" img width = '200' height ='500' src="http://keli-sketchx.github.io/files/WACV2016.jpg"/>](http://keli-sketchx.github.io/files/WACV2016.png) **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
 
 **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 

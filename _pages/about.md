@@ -33,7 +33,7 @@ IEEE Winter Conference on Applications of Computer Vision(WACV2016)
 
 **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang
 
-TIP2017
+IEEE Transactions on Image Processing(TIP2017)
 
 [Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
 

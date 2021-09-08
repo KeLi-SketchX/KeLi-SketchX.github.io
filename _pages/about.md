@@ -22,7 +22,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 # Publications
 
 ### **2021**
-**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**
+[**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**](https://arxiv.org/abs/2108.08023)
 
 <font size=2>
 Binghui Chen, Zhaoyi Yan, Ke Li, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang.
@@ -31,20 +31,16 @@ IEEE International Conference on Computer Vision(ICCV)
 </font>
 
 
-
-#### [Paper](https://arxiv.org/abs/2108.08023)
-
 ### **2019**
 
-**Generalising Fine-Grained Sketch-Based Image Retrieval**
-
-#### Kaiyue Pang<sup>1</sup>, **Ke Li**<sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
-
-#### <sup>1</sup> equal contribution
-
-#### Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
-
-#### [Paper](http://keli-sketchx.github.io/files/CVPR2019.pdf)
+[**Generalising Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/CVPR2019.pdf)
+<font size=2>
+Kaiyue Pang<sup>1</sup>, **Ke Li**<sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
+<br>
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+<br>
+<sup>1</sup> equal contribution
+</font>
 
 
 **Towards Deep Universal Sketch Perceptual Grouper**

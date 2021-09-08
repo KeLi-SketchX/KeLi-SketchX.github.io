@@ -82,13 +82,13 @@ IEEE Transactions on Image Processing(TIP)
 ### 2016
 
 
-**Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+[**Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**](http://keli-sketchx.github.io/files/WACV2016.pdf)
+<font size=3>
+<b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+<br>
+IEEE Winter Conference on Applications of Computer Vision(WACV)
+</font>
 
-#### **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
-
-#### IEEE Winter Conference on Applications of Computer Vision(WACV)
-
-#### [Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
 
 
 

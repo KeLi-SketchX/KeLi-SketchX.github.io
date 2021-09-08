@@ -21,7 +21,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 # Publications
 
-## 2021
+### 2021
 <font size=15>
 **Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**
 
@@ -31,7 +31,7 @@ IEEE International Conference on Computer Vision(ICCV)
 
 [Paper](https://arxiv.org/abs/2108.08023)
 </font>
-## 2019
+#### 2019
 
 **Generalising Fine-Grained Sketch-Based Image Retrieval**
 
@@ -52,7 +52,7 @@ IEEE Transactions on Image Processing(TIP)
 
 [Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
-## 2018
+##### 2018
 
 
 **Universal Sketch Perceptual Grouping**

@@ -30,60 +30,59 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 #### [Paper](https://arxiv.org/abs/2108.08023)
 
-### 2019
+### **2019**
 
 **Generalising Fine-Grained Sketch-Based Image Retrieval**
 
-Kaiyue Pang<sup>1</sup>, **Ke Li**<sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
+#### Kaiyue Pang<sup>1</sup>, **Ke Li**<sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
 
-<sup>1</sup> equal contribution
+#### <sup>1</sup> equal contribution
 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+#### Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
-[Paper](http://keli-sketchx.github.io/files/CVPR2019.pdf)
+#### [Paper](http://keli-sketchx.github.io/files/CVPR2019.pdf)
 
 
 **Towards Deep Universal Sketch Perceptual Grouper**
 
-**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+#### **Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
 
-IEEE Transactions on Image Processing(TIP)
+#### IEEE Transactions on Image Processing(TIP)
 
-[Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
+#### [Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
-### 2018
+### **2018**
 
 
 **Universal Sketch Perceptual Grouping**
 
-**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+#### **Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
 
-Proceedings of the european conference on computer vision(ECCV)
+#### Proceedings of the european conference on computer vision(ECCV)
 
-[Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
+#### [Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
 
-## 2017
-
+### 2017
 
 **Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**
 
-**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+#### **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 
-IEEE Transactions on Image Processing(TIP)
+#### IEEE Transactions on Image Processing(TIP)
 
-[Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
+#### [Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
 
-## 2016
+### 2016
 
 
 **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
 
-**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+#### **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 
-IEEE Winter Conference on Applications of Computer Vision(WACV)
+#### IEEE Winter Conference on Applications of Computer Vision(WACV)
 
-[Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
+#### [Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
 
 
 

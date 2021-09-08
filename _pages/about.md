@@ -34,6 +34,7 @@ IEEE International Conference on Computer Vision(ICCV)
 ### **2019**
 
 [**Generalising Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/CVPR2019.pdf)
+
 <font size=3>
 Kaiyue Pang<sup>1</sup>, <b>Ke Li</b><sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
 <br>
@@ -43,13 +44,15 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 </font>
 
 
-**Towards Deep Universal Sketch Perceptual Grouper**
+[**Towards Deep Universal Sketch Perceptual Grouper**](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
-#### **Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+<font size=3>
+<b>Ke Li</b>, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
+<br>
+IEEE Transactions on Image Processing(TIP)
+</font>
 
-#### IEEE Transactions on Image Processing(TIP)
 
-#### [Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
 ### **2018**
 

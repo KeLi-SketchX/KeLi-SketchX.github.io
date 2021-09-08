@@ -22,7 +22,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 # Publications
 
 ## 2021
-
+<font size=15>
 **Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**
 
 Binghui Chen, Zhaoyi Yan, **Ke Li**, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang
@@ -30,7 +30,7 @@ Binghui Chen, Zhaoyi Yan, **Ke Li**, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zha
 IEEE International Conference on Computer Vision(ICCV)
 
 [Paper](https://arxiv.org/abs/2108.08023)
-
+</font>
 ## 2019
 
 **Generalising Fine-Grained Sketch-Based Image Retrieval**

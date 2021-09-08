@@ -12,9 +12,16 @@ I am currently Associate Professor at School of Artificial Intelligence in BUPT.
 
 My research interest is Computer Vision and Machine Learning, particularly focus on Sketch, Video analysis, Information Retrieval.
 
-Education
+Education and Work experience
 ======
-* B.S. From 2017 to 2018, I was a visiting scholar at [SketchX](http://sketchx.eecs.qmul.ac.uk/) lab headed by [Dr. Yi-Zhe Song](https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&hl=en) at the Centre for Vision Speech and Signal Processing (CVSSP) in University of Surrey. From 2019 to 2021, I worked in The Alibaba DAMO Academy.
+* 2009.09 -- 2013.06   B.S.              BUPT
+* 2013.09 -- 2019.06   M.S. & PH.D       BUPT
+* 2017.10 -- 2018.12   visiting scholar  SketchX
+* 2019.03 -- 2021.08   Working           Alibaba DAMO Academy
+
+Publications
+======
+
 
 
 

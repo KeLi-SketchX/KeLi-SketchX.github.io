@@ -35,9 +35,9 @@ IEEE International Conference on Computer Vision(ICCV)
 
 **Generalising Fine-Grained Sketch-Based Image Retrieval**
 
-Kaiyue Pang^*, **Ke Li**^*, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
+Kaiyue Pang^1, **Ke Li**^1, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
 
-^* equal contribution
+^1 equal contribution
 
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 

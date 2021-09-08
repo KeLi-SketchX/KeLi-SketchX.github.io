@@ -21,6 +21,15 @@ Education and Work experience
 
 Publications
 ======
+<img align="left" img width = '150' height ='75' src="http://keli-sketchx.github.io/_publications/WACV2016.png"/> **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+
+IEEE Winter Conference on Applications of Computer Vision(WACV)
+
+[Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
+
+**Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**
+
+[Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
 
 

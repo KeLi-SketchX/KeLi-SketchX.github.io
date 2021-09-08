@@ -12,53 +12,80 @@ I am currently Associate Professor at School of Artificial Intelligence in BUPT.
 
 My research interest is Computer Vision and Machine Learning, particularly focus on Sketch, Video analysis, Information Retrieval.
 
-Education and Work experience
-======
+# Education and Work experience
+
 * 2009.09 -- 2013.06   B.S.              BUPT
 * 2013.09 -- 2019.06   M.S. & PH.D       BUPT
 * 2017.10 -- 2018.12   visiting scholar  SketchX
 * 2019.03 -- 2021.08   Working           Alibaba DAMO Academy
 
-Publications
-======
+# Publications
 
+## 2021
 
+**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**
 
+Binghui Chen, Zhaoyi Yan, **Ke Li**, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang
 
+IEEE International Conference on Computer Vision(ICCV)
 
-[<img align="left" img width = '200' height ='500' src="http://keli-sketchx.github.io/files/ECCV2018.jpg"/>](http://keli-sketchx.github.io/files/ECCV2018.png) **Universal Sketch Perceptual Grouping**
+[Paper](https://arxiv.org/abs/2108.08023)
 
-**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Xiang Tao, Timothy M Hospedales, Honggang Zhang
+## 2019
 
-Proceedings of the european conference on computer vision(ECCV2018)
+**Generalising Fine-Grained Sketch-Based Image Retrieval**
 
-[Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
+Kaiyue Pang*, **Ke Li***, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
+
+* equal contribution
+
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+
+[Paper](http://keli-sketchx.github.io/files/CVPR2019.pdf)
+
 
 **Towards Deep Universal Sketch Perceptual Grouper**
 
-**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Xiang Tao, Timothy M Hospedales, Honggang Zhang
+**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
 
-IEEE Transactions on Image Processing(TIP2019)
+IEEE Transactions on Image Processing(TIP)
 
 [Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
+## 2018
 
 
-[<img align="left" img width = '200' height ='500' src="http://keli-sketchx.github.io/files/WACV2016.jpg"/>](http://keli-sketchx.github.io/files/WACV2016.png) **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+**Universal Sketch Perceptual Grouping**
 
-**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
 
-IEEE Winter Conference on Applications of Computer Vision(WACV2016)
+Proceedings of the european conference on computer vision(ECCV)
 
-[Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
+[Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
+
+## 2017
+
 
 **Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**
 
 **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 
-IEEE Transactions on Image Processing(TIP2017)
+IEEE Transactions on Image Processing(TIP)
 
 [Paper](http://keli-sketchx.github.io/files/TIP2017.pdf)
+
+
+## 2016
+
+
+**Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+
+**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
+
+IEEE Winter Conference on Applications of Computer Vision(WACV)
+
+[Paper](http://keli-sketchx.github.io/files/WACV2016.pdf)
+
 
 
 

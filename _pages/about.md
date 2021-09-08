@@ -26,9 +26,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 <font size=2>
 Binghui Chen, Zhaoyi Yan, Ke Li, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang.
-</font>
-
-<font size=2>
+<br>
 IEEE International Conference on Computer Vision(ICCV)
 </font>
 

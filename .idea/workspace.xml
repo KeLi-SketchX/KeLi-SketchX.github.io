@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ccdabc8-e26d-400c-a293-a0d9a7e7247f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/about.md" afterPath="$PROJECT_DIR$/_pages/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/ECCV2018.md" afterPath="$PROJECT_DIR$/_publications/ECCV2018.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="TIP2019.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="48">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -56,8 +57,18 @@
       <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" column="90" lean-forward="false" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+            <state relative-caret-position="312">
+              <caret line="41" column="157" lean-forward="false" selection-start-line="41" selection-start-column="157" selection-end-line="41" selection-end-column="157" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ECCV2018.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/ECCV2018.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -78,16 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ui-text.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/ui-text.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5040">
-              <caret line="210" column="71" lean-forward="false" selection-start-line="210" selection-start-column="71" selection-end-line="210" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -132,13 +133,13 @@
         <option value="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_publications/ECCV2018-USPG.md" />
         <option value="$PROJECT_DIR$/_publications/CVPR2019.md" />
-        <option value="$PROJECT_DIR$/_publications/ECCV2018.md" />
         <option value="$PROJECT_DIR$/_publications/ICCV2021.md" />
         <option value="$PROJECT_DIR$/_publications/TIP2017.md" />
         <option value="$PROJECT_DIR$/_publications/WACV2016.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_publications/TIP2019.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_publications/ECCV2018.md" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
       </list>
     </option>
@@ -455,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/ECCV2018.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -547,14 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/ICCV2021.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -563,10 +549,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/ECCV2018.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/TIP2019.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="90" lean-forward="false" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+        <state relative-caret-position="312">
+          <caret line="41" column="157" lean-forward="false" selection-start-line="41" selection-start-column="157" selection-end-line="41" selection-end-column="157" />
           <folding />
         </state>
       </provider>

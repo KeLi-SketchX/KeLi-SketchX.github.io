@@ -21,9 +21,27 @@ Education and Work experience
 
 Publications
 ======
-<img align="left" img width = '150' height ='75' src="https://keli-sketchx.github.io/files/WACV2016.png"/> **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+[<img align="left" img width = '300' height ='150' src="http://keli-sketchx.github.io/files/ECCV2018.png"/>](http://keli-sketchx.github.io/files/ECCV2018.png) **Universal Sketch Perceptual Grouping**
 
-**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang
+**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Xiang Tao, Timothy M Hospedales, Honggang Zhang
+
+Proceedings of the european conference on computer vision(ECCV2018)
+
+[Paper](http://keli-sketchx.github.io/files/ECCV2018.pdf)
+
+**Towards Deep Universal Sketch Perceptual Grouper**
+
+**Ke Li**, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Xiang Tao, Timothy M Hospedales, Honggang Zhang
+
+IEEE Transactions on Image Processing(TIP2019)
+
+[Paper](http://keli-sketchx.github.io/files/TIP2019.pdf)
+
+
+
+[<img align="left" img width = '300' height ='150' src="http://keli-sketchx.github.io/files/WACV2016.png"/>](http://keli-sketchx.github.io/files/WACV2016.png) **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+
+**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 
 IEEE Winter Conference on Applications of Computer Vision(WACV2016)
 
@@ -31,7 +49,7 @@ IEEE Winter Conference on Applications of Computer Vision(WACV2016)
 
 **Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**
 
-**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang
+**Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 
 IEEE Transactions on Image Processing(TIP2017)
 

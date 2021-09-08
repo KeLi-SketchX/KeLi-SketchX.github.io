@@ -21,7 +21,7 @@ Education and Work experience
 
 Publications
 ======
-<img align="left" img width = '150' height ='75' src="http://keli-sketchx.github.io/_publications/WACV2016.png"/> **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
+<img align="left" img width = '150' height ='75' src="https://keli-sketchx.github.io/_publications/WACV2016.png"/> **Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**
 
 **Ke Li**, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang
 

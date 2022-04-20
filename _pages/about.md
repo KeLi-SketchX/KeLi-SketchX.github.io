@@ -21,6 +21,16 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 # Publications
 
+
+### **2022**
+[**CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples**](http://keli-sketchx.github.io/files/CVPRW2022.pdf)
+
+<font size=3>
+Wangmeng Xiang, Chao Li, <b>Ke Li</b>, Biao Wang, Xian-sheng Hua, Lei Zhang.
+<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops(CVPRW)
+</font>
+
 ### **2021**
 [**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**](https://arxiv.org/abs/2108.08023)
 

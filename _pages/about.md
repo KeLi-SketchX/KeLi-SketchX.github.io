@@ -20,7 +20,22 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 * 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy
 
 # Publications
+### **2023**
+**Photo Pre-Training, But for Sketchs**
 
+<font size=3>
+<b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song.
+<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+</font>
+
+**SketchXAI: A First Look at Explainability for Human Sketches**
+
+<font size=3>
+Zhiyu Qu, Yulia Gryaditskaya,<b>Ke Li</b>, Kaiyue Pang, Tao Xiang, Yi-Zhe Song.
+<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+</font>
 
 ### **2022**
 [**CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples**](http://keli-sketchx.github.io/files/CVPRW2022.pdf)

@@ -30,6 +30,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 </font>
 
 <br>
+<br>
 
 **SketchXAI: A First Look at Explainability for Human Sketches**
 

@@ -20,6 +20,14 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 * 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy
 
 # Publications
+### **2024**
+**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**
+
+<font size=3>
+Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.
+<br>
+International Conference on Learning Representations(ICLR)
+</font>
 ### **2023**
 **Photo Pre-Training, But for Sketchs**
 

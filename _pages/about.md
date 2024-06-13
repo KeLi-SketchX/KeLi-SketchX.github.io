@@ -21,7 +21,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 # Publications
 ### **2024**
-**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**
+[**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**](http://keli-sketchx.github.io/files/870_scale_adaptive_diffusion_model.pdf)
 
 <font size=3>
 Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.
@@ -30,7 +30,7 @@ The Twelfth International Conference on Learning Representations(ICLR)
 </font>
 
 ### **2023**
-**Photo Pre-Training, But for Sketchs**
+[**Photo Pre-Training, But for Sketchs**](http://keli-sketchx.github.io/files/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.pdf)
 
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song.
@@ -41,7 +41,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 <br>
 <br>
 
-**SketchXAI: A First Look at Explainability for Human Sketches**
+[**SketchXAI: A First Look at Explainability for Human Sketches**](http://keli-sketchx.github.io/files/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)
 
 <font size=3>
 Zhiyu Qu, Yulia Gryaditskaya,<b>Ke Li</b>, Kaiyue Pang, Tao Xiang, Yi-Zhe Song.

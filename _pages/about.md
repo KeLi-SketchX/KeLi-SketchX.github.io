@@ -20,6 +20,22 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 * 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy
 
 # Publications
+### **2025**
+[**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**]
+
+<font size=3>
+Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song.
+<br>
+The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
+</font>
+
+[**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**]
+
+<font size=3>
+Jiangning Wei, lixiong Qin, Bo Yu, TianJian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, <b>Ke Li</b>, Jun Liu.
+<br>
+The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
+</font>
 ### **2024**
 [**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**](http://keli-sketchx.github.io/files/870_scale_adaptive_diffusion_model.pdf)
 

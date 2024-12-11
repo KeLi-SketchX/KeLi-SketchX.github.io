@@ -21,7 +21,7 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 # Publications
 ### **2025**
-[**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**]
+**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**
 
 <font size=3>
 Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song.
@@ -29,8 +29,7 @@ Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, 
 The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 </font>
 
-
-[**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**]
+**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**
 
 <font size=3>
 Jiangning Wei, lixiong Qin, Bo Yu, TianJian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, <b>Ke Li</b>, Jun Liu.

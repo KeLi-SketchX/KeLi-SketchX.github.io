@@ -29,6 +29,7 @@ Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, 
 The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 </font>
 
+
 [**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**]
 
 <font size=3>
@@ -36,6 +37,8 @@ Jiangning Wei, lixiong Qin, Bo Yu, TianJian Zou, Chuhan Yan, Dandan Xiao, Yang Y
 <br>
 The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 </font>
+
+
 ### **2024**
 [**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**](http://keli-sketchx.github.io/files/870_scale_adaptive_diffusion_model.pdf)
 

@@ -17,19 +17,21 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 * 2009.09 -- 2013.06   B.S.              in BUPT
 * 2013.09 -- 2019.06   M.S. & PH.D       in BUPT
 * 2017.10 -- 2018.12   Visiting scholar  in SketchX
-* 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy
+<!--* 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy -->
 
 # Publications
 ### **2025**
-[**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**](https://openreview.net/forum?id=fcnZ7SJS4m)
+
 
 <font size=3>
 Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song.
 <br>
-The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
+The 39th Annual AAAI Conference on Artificial Intelligence(AAAI),<b>Oral</b>
 </font>
 
-[**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**](https://openreview.net/forum?id=la8o6xjTnp)
+
+[**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**](https://openreview.net/forum?id=fcnZ7SJS4m)
+
 
 <font size=3>
 Jiangning Wei, lixiong Qin, Bo Yu, TianJian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, <b>Ke Li</b>, Jun Liu.
@@ -37,9 +39,9 @@ Jiangning Wei, lixiong Qin, Bo Yu, TianJian Zou, Chuhan Yan, Dandan Xiao, Yang Y
 The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 </font>
 
+[**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attentions**](https://openreview.net/forum?id=la8o6xjTnp)
 
 ### **2024**
-[**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**](http://keli-sketchx.github.io/files/870_scale_adaptive_diffusion_model.pdf)
 
 <font size=3>
 Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.
@@ -47,8 +49,27 @@ Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.
 The Twelfth International Conference on Learning Representations(ICLR)
 </font>
 
+[**Scale-Adaptive Diffusion Model for Complex Sketch Synthesis**](http://keli-sketchx.github.io/files/870_scale_adaptive_diffusion_model.pdf)
+
+
+
+<font size=3>
+Xin Dai, Haoge Deng, <b>Ke Li</b>, Yonggang Qi.
+<br>
+International Conference on Pattern Recognition
+</font>
+
+[**Sketch2Seg: Sketch-Based Image Segmentation with Pre-trained Diffusion Model**](https://link.springer.com/chapter/10.1007/978-3-031-78347-0_3)
+
+<font size=3>
+Hongming Guo, Ziqing Huang, Qian Yuan, Hanbo Song, Zhiyan Liu, Xianzhao Feng, Anqi Liu, Min Liu, <b>Ke Li</b>, Ruixi Zhou
+<br>
+International Conference on Artificial Neural Networks
+</font>
+
+[**Advancing Free-Breathing Cardiac Cine MRI: Retrospective Respiratory Motion Correction Via Kspace-and-Image Guided Diffusion Model**](https://link.springer.com/chapter/10.1007/978-3-031-72353-7_14)
+
 ### **2023**
-[**Photo Pre-Training, But for Sketchs**](http://keli-sketchx.github.io/files/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.pdf)
 
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song.
@@ -56,10 +77,7 @@ The Twelfth International Conference on Learning Representations(ICLR)
 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 </font>
 
-<br>
-<br>
-
-[**SketchXAI: A First Look at Explainability for Human Sketches**](http://keli-sketchx.github.io/files/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)
+[**Photo Pre-Training, But for Sketchs**](http://keli-sketchx.github.io/files/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.pdf)
 
 <font size=3>
 Zhiyu Qu, Yulia Gryaditskaya,<b>Ke Li</b>, Kaiyue Pang, Tao Xiang, Yi-Zhe Song.
@@ -67,7 +85,9 @@ Zhiyu Qu, Yulia Gryaditskaya,<b>Ke Li</b>, Kaiyue Pang, Tao Xiang, Yi-Zhe Song.
 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 </font>
 
-### **2022**
+[**SketchXAI: A First Look at Explainability for Human Sketches**](http://keli-sketchx.github.io/files/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)
+
+<!-- ### **2022**
 [**CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples**](http://keli-sketchx.github.io/files/CVPRW2022.pdf)
 
 <font size=3>
@@ -84,12 +104,9 @@ Binghui Chen, Zhaoyi Yan, <b>Ke Li</b>, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei 
 <br>
 IEEE International Conference on Computer Vision(ICCV)
 </font>
-
+-->
 
 ### **2019**
-
-[**Generalising Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/CVPR2019.pdf)
-
 <font size=3>
 Kaiyue Pang<sup>1</sup>, <b>Ke Li</b><sup>1</sup>, Yongxin Yang, Honggang Zhang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song
 <br>
@@ -98,9 +115,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <sup>1</sup> equal contribution
 </font>
 
-<br>
-
-[**Towards Deep Universal Sketch Perceptual Grouper**](http://keli-sketchx.github.io/files/TIP2019.pdf)
+[**Generalising Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/CVPR2019.pdf)
 
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
@@ -108,23 +123,19 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 IEEE Transactions on Image Processing(TIP)
 </font>
 
-
+[**Towards Deep Universal Sketch Perceptual Grouper**](http://keli-sketchx.github.io/files/TIP2019.pdf)
 
 ### **2018**
-
-
-[**Universal Sketch Perceptual Grouping**](http://keli-sketchx.github.io/files/ECCV2018.pdf)
-
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang
 <br>
 Proceedings of the european conference on computer vision(ECCV)
 </font>
 
+[**Universal Sketch Perceptual Grouping**](http://keli-sketchx.github.io/files/ECCV2018.pdf)
+
 
 ### 2017
-
-[**Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
@@ -132,20 +143,32 @@ Proceedings of the european conference on computer vision(ECCV)
 IEEE Transactions on Image Processing(TIP)
 </font>
 
-
+[**Synergistic Instance-Level Subspace Alignment for Fine-Grained Sketch-Based Image Retrieval**](http://keli-sketchx.github.io/files/TIP2017.pdf)
 
 ### 2016
 
-
-[**Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**](http://keli-sketchx.github.io/files/WACV2016.pdf)
 <font size=3>
 <b>Ke Li</b>, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Honggang Zhang
 <br>
-IEEE Winter Conference on Applications of Computer Vision(WACV)
+IEEE Winter Conference on Applications of Computer Vision(WACV),<b>Oral</b>
 </font>
 
+[**Fine-Grained Sketch-Based Image Retrieval: The Role of Part-Aware Attributes**](http://keli-sketchx.github.io/files/WACV2016.pdf)
 
+<font size=3>
+Yichuan Hu,<b>Ke Li</b>, Honggang Zhang
+<br>
+Visual Communications and Image Processing (VCIP)
+</font>
 
+[**Cross-modal face matching: Tackling visual abstraction using fine-grained attributes**](https://ieeexplore.ieee.org/abstract/document/7805451/)
 
+<font size=3>
+Peng Xu, Ke Li, Zhanyu Ma, Yi-Zhe Song, Liang Wang, Jun Guo
+<br>
+IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), <b>Best Paper Award</b>
+</font>
+
+[**Cross-modal subspace learning for sketch-based image retrieval: A comparative study**](https://ieeexplore.ieee.org/abstract/document/7974625/)
 
 

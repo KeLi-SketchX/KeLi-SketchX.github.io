@@ -20,7 +20,96 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 <!--* 2019.03 -- 2021.08   Working           in Alibaba DAMO Academy -->
 
 # Publications
+### **2026**
+
+<font size=3>
+Minghan Yang, LAN YANG, <b>Ke Li</b>, Honggang Zhang, Kaiyue Pang, Yi-Zhe Song 
+<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+</font>
+
+
+[**SemVideo: Reconstructs What You Watch from Brain Activity via Hierarchical Semantic Guidance**](https://openreview.net/pdf?id=3FrJBnDfZx)
+
+
+<font size=3>
+Dai Zunkai, <b>Ke Li</b>, JIAJIA LIU, Jie Yang, Yuanyuan Qiao .
+<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
+</font>
+
+[**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**](https://openreview.net/pdf?id=fvMnZgNJTP)
+
+
+
+<font size=3>
+Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu.
+<br>
+Pattern Recognition(PR)
+</font>
+
+
+[**ST-VA-AR: LearningVelocity-Aware ActionRepresentations with Mixture ofSpatiotemporal Attention**]
+
+
+<font size=3>
+<b>Ke Li</b>, Jijin Hu, Zhipeng Chen, Lan Yang, Yonggang Qi, Yi-Zhe Song .
+<br>
+International Journal of Computer Vision(IJCV)
+</font>
+
+[**SACG++: Complex Sketch Generation via Representation-Enhanced Scale-Adaptive Classifier Guidance**](https://link.springer.com/article/10.1007/s11263-026-02768-5)
+
+
+
+
+<font size=3>
+Zhipeng Chen, Chao Zhang, zhongrui zhang, Yifan Xu, LAN YANG, Jun Liu, <b>Ke Li</b>, Yi-Zhe Song
+<br>
+International Conference on Learning Representations(ICLR)
+</font>
+
+
+[**PerfGuard: A Performance-Aware Agent for Visual Content Generation**](https://openreview.net/pdf?id=tdN42GTv4S)
+
+
+<font size=3>
+Zhixin Feng, Runan Yin, LAN YANG, Kaiyue Pang, <b>Ke Li</b>, Honggang Zhang, Yi-Zhe Song.
+<br>
+International Conference on Learning Representations(ICLR)
+</font>
+
+[**SketchEvo: Leveraging Drawing Dynamics for Enhanced Image Synthesis**](https://openreview.net/pdf?id=Tsfxd4jDwJ)
+
+
+
+
 ### **2025**
+
+<font size=3>
+Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.
+<br>
+2025 4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT)
+</font>
+
+[**Human Preference Embodied in Strokes: Iterative Sketch Guidance for Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/11198943/)
+
+<font size=3>
+JianChang, PengferXiao, HuisingZhao, Hao Jiang, <b>Ke Li</b>, Lan Yang, Honggang Zhang.
+<br>
+2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025),<b>Best Paper Award</b>
+</font>
+
+[**Caption-Aware Fusion Network for Visual Dialog**]
+
+
+<font size=3>
+Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</b>, Yuxingue Qian, Kiadian Guo, Haozhe Song, Vinming Li, Jun Li.
+<br>
+2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025),<b>Best Paper Award</b>
+</font>
+
+[**Acps: Agent collaboration protocols for the internet of agents**](https://arxiv.org/pdf/2505.13523?)
 
 
 <font size=3>

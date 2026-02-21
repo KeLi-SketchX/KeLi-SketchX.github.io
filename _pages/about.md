@@ -49,7 +49,7 @@ Pattern Recognition(PR)
 </font>
 
 
-[**ST-VA-AR: LearningVelocity-Aware ActionRepresentations with Mixture ofSpatiotemporal Attention**]
+**ST-VA-AR: LearningVelocity-Aware ActionRepresentations with Mixture ofSpatiotemporal Attention**
 
 
 <font size=3>
@@ -87,20 +87,12 @@ International Conference on Learning Representations(ICLR)
 ### **2025**
 
 <font size=3>
-Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.
-<br>
-2025 4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT)
-</font>
-
-[**Human Preference Embodied in Strokes: Iterative Sketch Guidance for Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/11198943/)
-
-<font size=3>
 JianChang, PengferXiao, HuisingZhao, Hao Jiang, <b>Ke Li</b>, Lan Yang, Honggang Zhang.
 <br>
 2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025),<b>Best Paper Award</b>
 </font>
 
-[**Caption-Aware Fusion Network for Visual Dialog**]
+**Caption-Aware Fusion Network for Visual Dialog**
 
 
 <font size=3>
@@ -111,6 +103,22 @@ Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</
 
 [**Acps: Agent collaboration protocols for the internet of agents**](https://arxiv.org/pdf/2505.13523?)
 
+
+<font size=3>
+Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.
+<br>
+2025 4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT)
+</font>
+
+[**Human Preference Embodied in Strokes: Iterative Sketch Guidance for Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/11198943/)
+
+<font size=3>
+Sunyan Liu, Lan Yang, Hao Jiang, Xuan Peng, Shuo Chen, <b>Ke Li</b>, Honggang Zhang.
+<br>
+2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025)
+</font>
+
+**EVALUATING THE VIABILITY AND PERFORMANCE OF HUAWEI ASCEND NPU FOR LARGE LANGUAGE MODEL INFERENCE**
 
 <font size=3>
 Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song.

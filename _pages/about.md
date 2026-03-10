@@ -23,9 +23,9 @@ My research interest is Computer Vision and Machine Learning, particularly focus
 
 Led the drafting of the national standard series *Artificial Intelligence—Agent Interconnection*.
 
-**《人工智能 智能体互联 第1部分：总体架构》、《人工智能 智能体互联 第2部分：身份码》、《人工智能 智能体互联 第3部分：身份管理》、《人工智能 智能体互联 第4部分：智能体描述》、《人工智能 智能体互联 第5部分：智能体发现》、《人工智能 智能体互联 第6部分：智能体交互》、人工智能 智能体互联 第7部分：智能体工具调用》**
+**[《人工智能 智能体互联 第1部分：总体架构》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3BAB0AA8A7FC31E3E06397BE0A0AA43F)、[《人工智能 智能体互联 第2部分：身份码》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E11D080EE06397BE0A0A17E5)、[《人工智能 智能体互联 第3部分：身份管理》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E120080EE06397BE0A0A17E5)、[《人工智能 智能体互联 第4部分：智能体描述》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E123080EE06397BE0A0A17E5)、[《人工智能 智能体互联 第5部分：智能体发现》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E126080EE06397BE0A0A17E5)、[《人工智能 智能体互联 第6部分：智能体交互》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E129080EE06397BE0A0A17E5)、[《人工智能 智能体互联 第7部分：智能体工具调用》](https://std.samr.gov.cn/gb/search/gbDetailed?id=3EFBBC58E12C080EE06397BE0A0A17E5)**
 
-Under the guidance of the Ministry of Industry and Information Technology, co‑founded the [**Agent Interconnection Community**](https://aip.openatom.tech ), open‑sourced core protocol code[[Atomgit](- https://atomgit.com/AIP-PUB/Agent-Interconnection-Protocol-Project)、[Github](https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project)].The community has attracted more than 100 enterprises including Huawei, Alibaba, and Xiaomi to participate in joint development, with applications deployed in over 50 enterprises across education, manufacturing, healthcare, and other sectors, effectively promoting the industrial translation of agent technologies.
+Under the guidance of the Ministry of Industry and Information Technology, co‑founded the [**Agent Interconnection Community**](https://aip.openatom.tech ), open‑sourced core protocol code[[Atomgit](https://atomgit.com/AIP-PUB/Agent-Interconnection-Protocol-Project)、[Github](https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project)].The community has attracted more than 100 enterprises including Huawei, Alibaba, and Xiaomi to participate in joint development, with applications deployed in over 50 enterprises across education, manufacturing, healthcare, and other sectors, effectively promoting the industrial translation of agent technologies.
 
 # Publications
 ### **2026**
@@ -57,7 +57,7 @@ Pattern Recognition(PR)
 </font>
 
 
-**ST-VA-AR: Learning Velocity-Aware Action Representations with Mixture of Spatiotemporal Attention
+[**ST-VA-AR: Learning Velocity-Aware Action Representations with Mixture of Spatiotemporal Attention**](http://keli-sketchx.github.io/files/PR2026.pdf)
 
 
 <font size=3>

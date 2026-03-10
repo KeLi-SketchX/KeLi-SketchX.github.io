@@ -41,7 +41,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 <font size=3>
-Dai Zunkai, <b>Ke Li</b>, JIAJIA LIU, Jie Yang, Yuanyuan Qiao .**Co-corresponding authors**
+Dai Zunkai, <b>Ke Li</b>, JIAJIA LIU, Jie Yang, Yuanyuan Qiao .<b>Co-corresponding authors</b>
 <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 </font>
@@ -51,7 +51,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 <font size=3>
-Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu.**Co-corresponding authors**
+Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu. <b>Co-corresponding authors</b>
 <br>
 Pattern Recognition(PR)
 </font>
@@ -72,7 +72,7 @@ International Journal of Computer Vision(IJCV)
 
 
 <font size=3>
-Zhipeng Chen, Chao Zhang, zhongrui zhang, Yifan Xu, LAN YANG, Jun Liu, <b>Ke Li</b>, Yi-Zhe Song.**Corresponding author**
+Zhipeng Chen, Chao Zhang, zhongrui zhang, Yifan Xu, LAN YANG, Jun Liu, <b>Ke Li</b>, Yi-Zhe Song. <b>Corresponding author</b>
 <br>
 International Conference on Learning Representations(ICLR)
 </font>
@@ -82,7 +82,7 @@ International Conference on Learning Representations(ICLR)
 
 
 <font size=3>
-Zhixin Feng, Runan Yin, LAN YANG, Kaiyue Pang, <b>Ke Li</b>, Honggang Zhang, Yi-Zhe Song. **Corresponding author**
+Zhixin Feng, Runan Yin, LAN YANG, Kaiyue Pang, <b>Ke Li</b>, Honggang Zhang, Yi-Zhe Song. <b>Corresponding author</b>
 <br>
 International Conference on Learning Representations(ICLR)
 </font>
@@ -113,7 +113,7 @@ Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</
 
 
 <font size=3>
-Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.**Corresponding author**
+Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>. <b>Corresponding author</b> 
 <br>
 2025 4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT)
 </font>
@@ -121,7 +121,7 @@ Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.**Corresponding author**
 [**Human Preference Embodied in Strokes: Iterative Sketch Guidance for Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/11198943/)
 
 <font size=3>
-Sunyan Liu, Lan Yang, Hao Jiang, Xuan Peng, Shuo Chen, <b>Ke Li</b>, Honggang Zhang.**通讯作者**
+Sunyan Liu, Lan Yang, Hao Jiang, Xuan Peng, Shuo Chen, <b>Ke Li</b>, Honggang Zhang. <b>Corresponding author</b>
 <br>
 2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025)
 </font>
@@ -129,7 +129,7 @@ Sunyan Liu, Lan Yang, Hao Jiang, Xuan Peng, Shuo Chen, <b>Ke Li</b>, Honggang Zh
 **EVALUATING THE VIABILITY AND PERFORMANCE OF HUAWEI ASCEND NPU FOR LARGE LANGUAGE MODEL INFERENCE**
 
 <font size=3>
-Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song.**通讯作者**
+Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, <b>Ke Li</b>, Yi-Zhe Song. <b>Corresponding author</b>
 <br>
 The 39th Annual AAAI Conference on Artificial Intelligence(AAAI),<b>Oral</b>
 </font>
@@ -149,7 +149,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 ### **2024**
 
 <font size=3>
-Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.**Corresponding author**
+Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song. <b>Corresponding author</b>
 <br>
 The Twelfth International Conference on Learning Representations(ICLR)
 </font>

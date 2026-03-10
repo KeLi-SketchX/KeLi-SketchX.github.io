@@ -41,7 +41,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 <font size=3>
-Dai Zunkai, <b>Ke Li</b>, JIAJIA LIU, Jie Yang, Yuanyuan Qiao .
+Dai Zunkai, <b>Ke Li</b>, JIAJIA LIU, Jie Yang, Yuanyuan Qiao .**Co-corresponding authors**
 <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 </font>
@@ -51,13 +51,13 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 <font size=3>
-Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu.**共同通讯作者**
+Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu.**Co-corresponding authors**
 <br>
 Pattern Recognition(PR)
 </font>
 
 
-**ST-VA-AR: LearningVelocity-Aware ActionRepresentations with Mixture ofSpatiotemporal Attention
+**ST-VA-AR: Learning Velocity-Aware Action Representations with Mixture of Spatiotemporal Attention
 
 
 <font size=3>
@@ -72,7 +72,7 @@ International Journal of Computer Vision(IJCV)
 
 
 <font size=3>
-Zhipeng Chen, Chao Zhang, zhongrui zhang, Yifan Xu, LAN YANG, Jun Liu, <b>Ke Li</b>, Yi-Zhe Song.**通讯作者**
+Zhipeng Chen, Chao Zhang, zhongrui zhang, Yifan Xu, LAN YANG, Jun Liu, <b>Ke Li</b>, Yi-Zhe Song.**Corresponding author**
 <br>
 International Conference on Learning Representations(ICLR)
 </font>
@@ -82,7 +82,7 @@ International Conference on Learning Representations(ICLR)
 
 
 <font size=3>
-Zhixin Feng, Runan Yin, LAN YANG, Kaiyue Pang, <b>Ke Li</b>, Honggang Zhang, Yi-Zhe Song. **通讯作者**
+Zhixin Feng, Runan Yin, LAN YANG, Kaiyue Pang, <b>Ke Li</b>, Honggang Zhang, Yi-Zhe Song. **Corresponding author**
 <br>
 International Conference on Learning Representations(ICLR)
 </font>
@@ -104,7 +104,7 @@ JianChang, PengferXiao, HuisingZhao, Hao Jiang, <b>Ke Li</b>, Lan Yang, Honggang
 
 
 <font size=3>
-Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</b>, Yuxingue Qian, Kiadian Guo, Haozhe Song, Vinming Li, Jun Li.
+Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</b>, Yuxingue Qian, Kiadian Guo, Haozhe Song, Vinming Li, Jun Liu.
 <br>
 2025 9th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC 2025),<b>Best Paper Award</b>
 </font>
@@ -113,7 +113,7 @@ Cong Li, Jiang Wu, Qian Du, Shudan Yu, Rong Zou, Ke Yu, Keliang Chen, <b>Ke Li</
 
 
 <font size=3>
-Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.**通讯作者**
+Zhixin Feng, Ge Gao, Qian Yu, <b>Ke Li</b>.**Corresponding author**
 <br>
 2025 4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT)
 </font>
@@ -149,7 +149,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence(AAAI)
 ### **2024**
 
 <font size=3>
-Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.**通讯作者**
+Jijin Hu, <b>Ke Li</b>, Yonggang Qi, Yi-Zhe Song.**Corresponding author**
 <br>
 The Twelfth International Conference on Learning Representations(ICLR)
 </font>

@@ -29,12 +29,6 @@ Under the guidance of the Ministry of Industry and Information Technology, co‑
 
 # Publications
 ### **2026**
-<font size=3>
-Hongju Su, <b>Ke Li*</b>, LAN YANG, Honggang Zhang, Yi-Zhe Song.<b>Corresponding author</b>
-<br>
-Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music
-ACL Findings
-</font>
 
 <font size=3>
 Minghan Yang, LAN YANG, <b>Ke Li</b>, Honggang Zhang, Kaiyue Pang, Yi-Zhe Song 

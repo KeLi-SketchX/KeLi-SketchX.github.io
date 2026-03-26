@@ -31,6 +31,15 @@ Under the guidance of the Ministry of Industry and Information Technology, co‑
 ### **2026**
 
 <font size=3>
+Wang Ruyuan, Liu Sunyan, Zhao Yuxi, Su Yuhang, Peng Qiyue, Zhu Linsha, Zheng Yiqiu, Xin Ying, Li Jiasu, Du Yaying*, <b>Li Ke*</b>, and Li Xingrui*. <b>Co-corresponding authors</b>
+<br>
+Breast Cancer Research
+</font>
+
+heTLScope: A Deep Learning Framework for Quantifying Tertiary Lymphoid Structures from H&E Images Reveals Prognostic Heterogeneity Across Breast Cancer Subtypes.
+
+
+<font size=3>
 Minghan Yang, LAN YANG, <b>Ke Li</b>, Honggang Zhang, Kaiyue Pang, Yi-Zhe Song 
 <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)

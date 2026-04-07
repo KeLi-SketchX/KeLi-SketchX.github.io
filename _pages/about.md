@@ -29,6 +29,13 @@ Under the guidance of the Ministry of Industry and Information Technology, co‑
 
 # Publications
 ### **2026**
+<font size=3>
+Hongju Su, <b>Ke Li</b>, LAN YANG, Honggang Zhang, Yi-Zhe Song. <b>Corresponding author</b>
+<br>
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL)
+</font>
+
+[**Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music**](https://openreview.net/pdf?id=ioS0OyMDx1)
 
 <font size=3>
 Wang Ruyuan, Liu Sunyan, Zhao Yuxi, Su Yuhang, Peng Qiyue, Zhu Linsha, Zheng Yiqiu, Xin Ying, Li Jiasu, Du Yaying*, <b>Li Ke*</b>, and Li Xingrui*. <b>Co-corresponding authors</b>
@@ -60,7 +67,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 <font size=3>
-Jiangning Wei, Bo Yu, Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu. <b>Co-corresponding authors</b>
+Jiangning Wei, Bo Yu,<b>Ke Li</b>, Lan Yang, Dandan Xiao, Jun Liu. <b>Co-corresponding authors</b>
 <br>
 Pattern Recognition(PR)
 </font>
